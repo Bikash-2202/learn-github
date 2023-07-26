@@ -5,6 +5,7 @@ int main()
 {
   int a=7;
 int b=10;
+int c=20;
 int multiply=a*b;
 int sub= a-b;
 cout<<"Multiplication of the two number is = ";
