@@ -5,10 +5,10 @@ int main()
 {
   int a=7;
 int b=10;
-int sum=a+b;
+int multiply=a*b;
 int sub= a-b;
-cout<<"Sum of the two number is = ";
-cout<<sum<<endl;
+cout<<"Multiplication of the two number is = ";
+cout<<multiply<<endl;
 cout<<"Difference of the two number is = ";
 cout<<sub<<endl;
 }
